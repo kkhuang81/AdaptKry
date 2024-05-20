@@ -29,7 +29,7 @@ Please create a folder named 'pretrained' before running.
 
 ## Citation
 
-Please cite our work if interested
+Please cite our paper if it is relevant to your work, thanks!
 
 ```
 @inproceedings{HuangCTXL24,

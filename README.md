@@ -1,6 +1,6 @@
 ## Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach
 
-**AdaptKry** is a polynomial graph filter enhanced by utilizing an adaptive Krylov basis. This repository contains the source codes of **AdaptKry**. For further details, please refer to our paper in **WWW 2024**. Should you encounter any issues, please reach out to Keke Huang, thanks!
+**AdaptKry** is a polynomial graph filter enhanced by utilizing an adaptive Krylov basis. This repository contains the source codes of **AdaptKry**. For further details, please refer to our paper in **WWW 2024** (https://arxiv.org/abs/2403.07954). Should you encounter any issues, please reach out to Keke Huang, thanks!
 
 
 ## Environment Settings    
